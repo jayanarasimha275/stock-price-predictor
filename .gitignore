@@ -1,9 +1,8 @@
-target/
+node_modules/
 build/
 dist/
-*.class
-*.log
-*.db-journal
+coverage/
 .DS_Store
-.idea/
-*.iml
+*.log
+.env*
+!.env.example

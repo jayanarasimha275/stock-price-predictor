@@ -1,6 +1,6 @@
 {
   "name": "Stock Price Predictor",
-  "description": "Pure Java AWT desktop application with JDBC and SQLite for CSE 213 Advanced Java Programming at SRM University AP.",
+  "description": "Interactive GUI stock price prediction and technical indicators suite based on CSE 213 (SRM University AP) algorithms.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
