@@ -1,8 +1,9 @@
-node_modules/
+target/
 build/
 dist/
-coverage/
-.DS_Store
+*.class
 *.log
-.env*
-!.env.example
+*.db-journal
+.DS_Store
+.idea/
+*.iml
